@@ -76,7 +76,7 @@
   <section id="hero" class="d-flex flex-column justify-content-center align-items-center">
     <div class="hero-container" data-aos="fade-in">
       <h1>Adhya Dagar</h1>
-      <p>I'm <span class="typed" data-typed-items="Software Developer, Applied ML Researcher, Data Scientist"></span></p>
+      <p>I'm <span class="typed" data-typed-items=" a Software Developer,an Applied ML Researcher, a Data Scientist"></span></p>
     </div>
   </section><!-- End Hero -->
 
