@@ -10,7 +10,7 @@
 --------------------------------------------------------------*/
 body {
   font-family: "Open Sans", sans-serif;
-  color: #ddb9ae;
+  color: #272829;
 }
 
 a {
@@ -37,7 +37,7 @@ h1, h2, h3, h4, h5, h6 {
   border-radius: 50px;
   right: 15px;
   bottom: 15px;
-  background: #149ddd;
+  background: #ddb9af;
   color: #fff;
   transition: display 0.5s ease-in-out;
   z-index: 99999;
@@ -52,7 +52,7 @@ h1, h2, h3, h4, h5, h6 {
 
 .back-to-top:hover {
   color: #fff;
-  background: #2eafec;
+  background: #ddb9af;
   transition: background 0.2s ease-in-out;
 }
 
@@ -69,7 +69,7 @@ h1, h2, h3, h4, h5, h6 {
   z-index: 9997;
   transition: all 0.5s;
   padding: 0 15px;
-  background: #c594b1;
+  background: #ddb9af;
   overflow-y: auto;
 }
 
@@ -98,7 +98,7 @@ h1, h2, h3, h4, h5, h6 {
 #header .profile .social-links a {
   font-size: 18px;
   display: inline-block;
-  background: #212431;
+  background: #ddb9af;
   color: #fff;
   line-height: 1;
   padding: 8px 0;
@@ -111,7 +111,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #header .profile .social-links a:hover {
-  background: #149ddd;
+  background: #ddb9af;
   color: #fff;
   text-decoration: none;
 }
@@ -1052,14 +1052,14 @@ section {
 --------------------------------------------------------------*/
 #footer {
   padding: 15px;
-  color: #f4f6fd;
+  color: #ddb9af;
   font-size: 14px;
   position: fixed;
   left: 0;
   bottom: 0;
   width: 300px;
   z-index: 9999;
-  background: #ddb9ae;
+  background: #ddb9af;
 }
 
 #footer .copyright {
@@ -1070,7 +1070,7 @@ section {
   padding-top: 5px;
   text-align: center;
   font-size: 13px;
-  color: #eaebf0;
+  color: #ddb9af;
 }
 
 @media (max-width: 1199px) {
