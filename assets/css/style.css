@@ -170,7 +170,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .nav-menu a:hover i, .nav-menu .active > a i, .nav-menu li:hover > a i {
-  color: #149ddd;
+  color: #ddb9af;
 }
 
 /* Mobile Navigation */
@@ -190,7 +190,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .mobile-nav-toggle i {
-  color: #149ddd;
+  color: #ddb9af;
 }
 
 .mobile-nav-active {
@@ -387,7 +387,7 @@ section {
 }
 
 .facts .count-box a:hover {
-  color: #1f5297;
+  color: #263b46;
 }
 
 /*--------------------------------------------------------------
